@@ -1,0 +1,28 @@
+name: shawnrif
+favicon: null
+layout_spectrum: 0.6594183708075434
+typography_spectrum: 0.515922931721434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.49713823618367314
+  lightness: 0.22497288789600134
+  saturation: 0.8386755168903619
+  rhythmicContrast: 0.05813351017422974
+purpose: []
