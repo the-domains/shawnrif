@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[shawnrif]]></title>
         <description><![CDATA[shawnrif]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shawnrif/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 03:31:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 04:03:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shawnrif/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>come practice with shawn ... practice yoga, practice life.  </p>]]></description>
-            <link>undefinedfd1b2db4-f4b7-4337-b57c-7cb8c75b937f/index.html</link>
+            <link>https://thegrid.ai/shawnrif/fd1b2db4-f4b7-4337-b57c-7cb8c75b937f/index.html</link>
             <guid isPermaLink="false">fd1b2db4-f4b7-4337-b57c-7cb8c75b937f</guid>
-            <pubDate>Thu, 18 Feb 2016 03:30:24 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 04:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
