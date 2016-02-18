@@ -1,6 +1,6 @@
 name: shawnrif
 favicon: null
-layout_spectrum: 0.6594183708075434
+layout_spectrum: 1
 typography_spectrum: 0.515922931721434
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.49713823618367314
-  lightness: 0.22497288789600134
+  brandStrength: 0.125
+  lightness: 0.5625
   saturation: 0.8386755168903619
-  rhythmicContrast: 0.05813351017422974
+  rhythmicContrast: 0.5
 purpose: []
