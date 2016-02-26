@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T20:14:21.332Z'
-dateModified: '2016-02-18T20:14:06.279Z'
+datePublished: '2016-02-25T22:10:29.474Z'
+dateModified: '2016-02-25T22:10:13.017Z'
 title: try to make this the headline
 author: []
+sourcePath: _posts/2016-02-18-try-to-make-this-the-headline.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-18-try-to-make-this-the-headline.md
-published: true
 url: try-to-make-this-the-headline/index.html
 _type: Article
 
